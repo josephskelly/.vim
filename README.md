@@ -2,7 +2,7 @@
 This is my personal .vim configuration.
 
 ## Installation
-Clone this repo into your home directory
+This repo is designed to be used as a submodule of the josephskelly/.config repo. See the .config/README.md for details. If using this repo as a standalone repo, Clone this repo into your home directory.
 ```
 cd ~
 git clone https://github.com/josephskelly/.vim.git
